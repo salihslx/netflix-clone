@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+[![Netlify Status](https://api.netlify.com/api/v1/badges/15aa82e6-0f57-4cb2-aaa2-d8040d16c99e/deploy-status)](https://app.netlify.com/sites/lovely-rolypoly-ed4c39/deploys)
 
 In the project directory, you can run:
 
@@ -68,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/15aa82e6-0f57-4cb2-aaa2-d8040d16c99e/deploy-status)](https://app.netlify.com/sites/lovely-rolypoly-ed4c39/deploys)
+
