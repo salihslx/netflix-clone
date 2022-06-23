@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 [![Netlify Status](https://api.netlify.com/api/v1/badges/15aa82e6-0f57-4cb2-aaa2-d8040d16c99e/deploy-status)](https://app.netlify.com/sites/lovely-rolypoly-ed4c39/deploys)
 
+HOSTED LINK:https://sensational-pastelito-725f22.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
