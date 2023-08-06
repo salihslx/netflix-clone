@@ -15,9 +15,9 @@
     font-size: 3rem;
     font-weight: 800;
     padding-bottom: 0.3r;
-    margin-left: -76%;
-    
-
+    text-align: left;
+    margin-left: 15%;
+   
 }
 .button{
     color: white;
@@ -32,8 +32,9 @@
     padding-bottom: 0.5rem;
     background-color: rgba(51, 51, 51, .5);
     cursor: pointer;
-    margin-right: 37rem;
-    margin-left: -40%;
+    margin-right: 22%;
+    margin-left: -17%;
+
 
 }
 .button:hover{
@@ -49,8 +50,9 @@
     font-size: 0.7rem;
     height: 89px;
     max-width: 360px;
-    margin-left: 35%;
-     margin-top: 30px;
+   
+   text-align: center;
+   align-items: center;
 
 }
 .fade_bottom{
